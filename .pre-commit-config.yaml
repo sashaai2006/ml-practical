@@ -4,6 +4,6 @@ repos:
     hooks:
       - id: ruff-check
         args: [--fix]
-        files: ^(home-work|class-work)/
+        files: ^(ipynb|class-work)/
       - id: ruff-format
-        files: ^(home-work|class-work)/
+        files: ^(ipynb|class-work)/
