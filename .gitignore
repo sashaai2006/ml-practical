@@ -2,4 +2,5 @@
 .python-version
 .ruff_cache/
 .continue/
-*__pycache__/
+**/__pycache__/
+
