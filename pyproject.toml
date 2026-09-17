@@ -23,7 +23,7 @@ build-backend = "uv_build"
 [tool.ruff]
 target-version = "py314"
 line-length = 120
-src = ["ipynb", "class-work"]
+src = ["home-work", "ipynb"]
 extend-exclude = ["ML", "src"]
 force-exclude = true
 extend-include = ["*.ipynb"]
